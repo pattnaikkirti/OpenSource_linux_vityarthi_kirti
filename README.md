@@ -149,8 +149,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Sarthak Maurya**
-Registration Number: 24BAI10269
+**Kirti Sonam Pattnaik**
+Registration Number: 24BAI10611
 Course: Open Source Software
 
 ---
