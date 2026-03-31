@@ -1,5 +1,8 @@
 # 🐧 Open Source Audit — Linux Kernel
 
+# Kirti Sonam Pattnaik
+# 24BAI10611
+
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
 ---
